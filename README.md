@@ -1,5 +1,8 @@
-AngularJS Tutorial 1
+AngularJS Test
 ====================
+This is a clone of [T0021-airpair-angularjs-tutorial](https://github.com/airpair/T0021-airpair-angularjs-tutorial)
+I have not created this my own. This is just for own teting and understanding.
+
 
 author: [Nick Kaye](http://www.nickkaye.com)
 
